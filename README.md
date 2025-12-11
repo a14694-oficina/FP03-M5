@@ -1,6 +1,6 @@
 # Ficha Prática 3: Estrutura da Base de Dados
 
-Este repositório contém o *dump* SQL da base de dados **`if0_40156182_modulo5_db`**, que parece estar associada a um projeto ou módulo de desenvolvimento. O ficheiro `if0_40156182_modulo5_db.sql` inclui a estrutura completa das tabelas (`CREATE TABLE`) e dados de exemplo (`INSERT INTO`) para facilitar a configuração local do ambiente.
+Este repositório contém o *dump* SQL da base de dados **`if0_40156182_modulo5_db`**, que está associada a um projeto de desenvolvimento. O ficheiro `if0_40156182_modulo5_db.sql` inclui a estrutura completa das tabelas (`CREATE TABLE`) e dados de exemplo (`INSERT INTO`) para facilitar a configuração local do ambiente.
 
 ## Conteúdo do Ficheiro SQL
 
