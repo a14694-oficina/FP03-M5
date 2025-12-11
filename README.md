@@ -12,7 +12,7 @@ O ficheiro foi gerado a partir de um ambiente de alojamento web, especificamente
 | **Host** | `sql300.infinityfree.com` |
 | **Versão do Servidor** | `11.4.7-MariaDB` |
 | **Ferramenta de Exportação** | `phpMyAdmin 4.9.0.1` |
-| **Data de Geração** | 05 de Dezembro de 2025 |
+| **Data da Compilação** | 05 de Dezembro de 2025 |
 
 ## Estrutura das Tabelas
 
